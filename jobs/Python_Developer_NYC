@@ -1,0 +1,37 @@
+---
+title: Python Developer
+company: Eliassen Group
+url: 
+location: New York, NY
+# Choose one of the following options
+contract: contract
+contact:
+    name: Jessica
+    email: jsoto@eliassen.com
+    Please send resumes to the email above
+created: !!timestamp '2015-02-20' # Update this with today's date
+tags:
+  - 4 years of python
+  - sql
+  - django 
+ ----
+# Overview
+
+Expert knowledge of programming concepts and object-oriented programming
+Fluency in Python and experience architecting large applications
+Extensive experience working with relational databases and handling large datasets
+Expertise with MySQL and AJAX/JS
+Experience with HTTP servers and caching
+Strong Linux skills
+Strong understanding of RESTful web services (a plus)
+Exposure to systems and/or network automation (a plus)
+Django experience (a plus)
+
+# Role requirements
+
+* Python
+* Django
+* SQL
+
+
+# Python Developer - New York City (Contract)
